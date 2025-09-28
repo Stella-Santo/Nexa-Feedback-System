@@ -41,6 +41,6 @@ Dieses Projekt wurde gestaltet, als wäre es Teil eines internen Tools eines gro
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/dein-nutzername/nexa-feedback-system.git
+git clone https://github.com//nexa-feedback-system.git
 cd nexa-feedback-system
 pip install -r requirements.txt
