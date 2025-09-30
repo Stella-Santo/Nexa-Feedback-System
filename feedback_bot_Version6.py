@@ -103,3 +103,6 @@ async def on_ready():
 if __name__ == "__main__":
     TOKEN = os.getenv("DISCORD_TOKEN")  # Oder direkt: TOKEN = "DEIN_TOKEN"
     bot.run(TOKEN)
+    # Ende des Bots – Nexa™ Feedback System • Made by Stella
+    # Vielen Dank für die Nutzung!
+    # Entwickelt mit Leidenschaft und Präzision.
